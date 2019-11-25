@@ -1,0 +1,10 @@
+Which animal has a breed called Brittany?
+Dog*
+Cat
+Bird
+Bunny
+Which organ of the body is affected by Bright's disease?
+Lung
+Kidney*
+Heart
+Colon

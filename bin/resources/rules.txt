@@ -1,0 +1,16 @@
+These are the rules:
+
+You have to answer 15 questions correctly to win $1000000.
+Incorrect answers prior to Question 5, Balance=$0
+Incorrect answers between Question 5 and 10, Balance=$1000
+Incorrect answers between Question 10 and 15, Balance=$32000
+
+Players can walk-out anytime with their winnings. 
+
+You have three lifelines:
+
+50/50 	    - 	Two possible answers will be removed
+Doulbe-Dip  -   Get a new question for the same monetary value
+SKIP        -   Skip the current question and get the amount of money offered for the round.
+
+This is the end of the rules
